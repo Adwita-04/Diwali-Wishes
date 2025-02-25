@@ -30,6 +30,9 @@ Edit
 file:///path-to-file/index.html?receiver=Rahul&sender=Priya
 This will display:
 "Hi!! Rahul" and "Made with 💕 By Priya".
+
+
+
 🎁 Spread the Light!
 ✨ Share the joy and brighten someone's Diwali with this special webpage! ✨
 
